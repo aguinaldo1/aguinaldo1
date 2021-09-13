@@ -36,7 +36,7 @@
  <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-4986DA?style=for-the-badge&logo=discord&logoColor=white"></a>    
    
  
-  ![Snake animation](https://github.com/aguinaldo1/aguinaldo/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/aguinaldo1/aguinaldo1/blob/output/github-contribution-grid-snake.svg)
   <!--![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)-->
     
   </div>
