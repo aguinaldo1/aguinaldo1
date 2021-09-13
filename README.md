@@ -3,7 +3,6 @@
 
 - 😀 Hoje estudo java, linux e algumas outras linguagens de programação.
 
-- 📫 contate me no e-mail: aguinaldoamerico2@gmail.com
 
 
 ##
