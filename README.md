@@ -22,6 +22,7 @@
   <img align="center" alt="Agui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Agui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Agui-Js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Agui-Js" height="35" width="45" src="https://user-images.githubusercontent.com/49000442/139517363-a561d54c-7993-4b8d-8a1d-742374258cab.png">
 </div>
   
   ##
