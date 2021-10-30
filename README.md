@@ -1,4 +1,4 @@
-### Olá! eu sou o Aguinaldo1 👋
+### Aguinaldo Américo 👋
 
 
 - 😀 Hoje estudo java, linux e algumas outras linguagens de programação.
@@ -30,11 +30,15 @@
 </div>
   
   ##
-  
+   
 <div>
-<a href="https://www.linkedin.com/in/aguinaldo-americo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href = "mailto:aguinaldoamerico2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://instagram.com/americoaguinaldo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  
+ 
+
+  
+[![Linkedin Badge](https://img.shields.io/badge/-Aguinaldo%20Americo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aguinaldo-schell-americo/)](https://www.linkedin.com/in/aguinaldo-schell-americo/)
+[![Gmail Badge](https://img.shields.io/badge/-aguinaldoamerico2@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aguinaldoamerico2@gmail.com)](mailto:aguinaldoamerico2@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@aguinaldoamerico-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/https://twitter.com/aguinaldo112)](https://twitter.com/https://twitter.com/aguinaldo112)
   
    
    
