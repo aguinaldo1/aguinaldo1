@@ -3,14 +3,16 @@
 
 - 😀 Hoje estudo java, linux e algumas outras linguagens de programação.
 
+- Big Data e inteligência analítica  -  cursando - faculdade Uniasselvi
+
 
 
 ##
 
 <div>
   <a href="https://github.com/aguinaldo1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aguinaldo1&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguinaldo1&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=aguinaldo1&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguinaldo1&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -23,6 +25,7 @@
   <img align="center" alt="Agui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Agui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Agui-azure" height="25" width="100" src="https://user-images.githubusercontent.com/49000442/139517509-e985785a-3769-450d-995b-189a8f0a0109.png">
+    
 </div>
   
   ##
