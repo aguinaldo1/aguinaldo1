@@ -1,9 +1,11 @@
 ### Aguinaldo Américo 👋
 
 
-- 😀 Hoje estudo java, linux e algumas outras linguagens de programação.
+- Hoje estudo java, linux e algumas outras linguagens de programação.
 
-- Big Data e inteligência analítica  -  cursando - faculdade Uniasselvi
+
+## Cursando
+- Big Data e inteligência analítica  - faculdade Uniasselvi
 
 
 
