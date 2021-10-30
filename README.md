@@ -1,10 +1,10 @@
-### Aguinaldo Américo 👋
+## **Aguinaldo Américo** 👋
 
 
 - Hoje estudo java, linux e algumas outras linguagens de programação.
 
 
-## Cursando
+# *Cursando*
 - Big Data e inteligência analítica  - faculdade Uniasselvi
 
 
@@ -31,12 +31,9 @@
     
 </div>
   
-  ##
-   
-<div>
   
- 
-
+   Contatos:
+<div>
   
 [![Linkedin Badge](https://img.shields.io/badge/-Aguinaldo%20Americo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aguinaldo-schell-americo/)](https://www.linkedin.com/in/aguinaldo-schell-americo/)
 [![Gmail Badge](https://img.shields.io/badge/-aguinaldoamerico2@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aguinaldoamerico2@gmail.com)](mailto:aguinaldoamerico2@gmail.com)
@@ -49,6 +46,8 @@
  
     
   </div>
+
+
   
 <!--
 - 🌱 I’m currently learning ...
