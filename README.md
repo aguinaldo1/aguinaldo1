@@ -37,9 +37,20 @@ https://www.linkedin.com/in/aguinaldo-americo
   <img align="center" alt="Agui-gcp" height="85" width="95" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg">
   <img align="center" alt="Agui-docker" height="55" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Agui-grafana" height="55" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg">
-  <img align="center" alt="Agui-grafana" height="35" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg">
+  <img align="center" alt="Agui-prometheus" height="45" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg">
+  <img align="center" alt="Agui-kubernetes" height="45" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg">  
   <img align="center" alt="Agui-jenkins" height="45" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
+  <img align="center" alt="Agui-argocd" height="45" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original-wordmark.svg">
+  <img align="center" alt="Agui-kafka" height="95" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg">
+  <img align="center" alt="Agui-git" height="65" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
+  <img align="center" alt="Agui-github" height="45" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
+  <img align="center" alt="Agui-gitlab" height="45" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg">
+  <img align="center" alt="Agui-bash" height="45" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  <img align="center" alt="Agui-ansible" height="45" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg">
+  <img align="center" alt="Agui-vagrant" height="95" width="115" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original-wordmark.svg">
      
+    
+    
     
 </div>
  <hr>  
