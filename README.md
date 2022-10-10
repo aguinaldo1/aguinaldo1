@@ -5,7 +5,6 @@
 - Atualmente focado em desenvolver habilidades voltadas a Cloud: AWS, AZURE, GOOGLE CLOUD e OCI, 
 Atuando como SRE desenvolvendo atividades de monitoramento de aplicações através das métricas, traces e logs com o uso de ferramentas como: AppDynamics, Splunk, AppMetrics, Grafana, Prometheus.
 
-https://www.linkedin.com/in/aguinaldo-americo
 
 
 # *Cursando*
