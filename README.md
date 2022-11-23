@@ -20,7 +20,7 @@ Atuando como SRE desenvolvendo atividades de monitoramento de aplicações atrav
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguinaldo1&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
   <hr>
-  Experiências:
+  stacks que me desenvolvo:
   <div style="display: inline_block"><br>
  
   <img align="center" alt="Agui-linux" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
