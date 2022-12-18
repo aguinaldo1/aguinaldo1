@@ -6,7 +6,7 @@
 Atuando como SRE desenvolvendo atividades de monitoramento de aplicações através das métricas, traces e logs com o uso de ferramentas como: AppDynamics, Splunk, AppMetrics, Grafana, Prometheus.
 
 
-Curriculo: aguinaldo1.github.io/cv
+Curriculo: https://aguinaldo1.github.io/cv
 
 # *Cursando*
 - Big Data e inteligência analítica  - faculdade Uniasselvi
