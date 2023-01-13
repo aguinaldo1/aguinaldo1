@@ -15,11 +15,11 @@ Curriculo: https://aguinaldo1.github.io/cv
 
 ##
 
-<div>
-  <a href="https://github.com/aguinaldo1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aguinaldo1&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguinaldo1&layout=compact&langs_count=7&theme=gruvbox"/>
-</div>
+##<div>
+ ## <a href="https://github.com/aguinaldo1">
+##  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aguinaldo1&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+##  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguinaldo1&layout=compact&langs_count=7&theme=gruvbox"/>
+##</div>
   <hr>
   stacks que me desenvolvo:
   <div style="display: inline_block"><br>
