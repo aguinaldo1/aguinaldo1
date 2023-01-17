@@ -15,7 +15,11 @@ Curriculo: https://www.linkedin.com/in/aguinaldo-americo
 # *Cursando*
 - Big Data e inteligência analítica  - faculdade Uniasselvi
 
-
+<div align="center">
+  <a href="https://github.com/aguinaldo1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aguinaldo1&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguinaldo1&layout=compact&langs_count=7&theme=ayu-mirage"/>
+</div>
 
 ##
 
@@ -46,8 +50,14 @@ Curriculo: https://www.linkedin.com/in/aguinaldo-americo
   <img align="center" alt="Agui-bash" height="45" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="Agui-ansible" height="45" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg">
   <img align="center" alt="Agui-vagrant" height="95" width="115" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original-wordmark.svg">
+  <img align="center" alt="Rafa-Js" height="50" width="80" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+  
+  <!--
+    <img align="center" alt="Rafa-Js" height="30" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+
+  
      
-    
+    -->
     
     
 </div>
