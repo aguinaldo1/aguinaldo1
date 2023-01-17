@@ -1,8 +1,7 @@
 ## **Aguinaldo Américo** 👋
 
 
-- Estudo java, linux e python.
-- Atualmente focado em desenvolver habilidades voltadas a Cloud: AWS, AZURE, GOOGLE CLOUD e OCI, 
+- Atualmente focado em desenvolver habilidades voltadas a DevOps/SRE, Cloud 
 Atuando como SRE desenvolvendo atividades de monitoramento de aplicações através das métricas, traces e logs com o uso de ferramentas como: AppDynamics, Splunk, AppMetrics, Grafana, Prometheus.
 
 
