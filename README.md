@@ -14,12 +14,6 @@ Curriculo: https://www.linkedin.com/in/aguinaldo-americo
 # *Cursando*
 - Big Data e inteligência analítica  - faculdade Uniasselvi
 
-<div align="center">
-  <a href="https://github.com/aguinaldo1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aguinaldo1&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguinaldo1&layout=compact&langs_count=7&theme=ayu-mirage"/>
-</div>
-
 ##
 
   stacks que me desenvolvo:
@@ -37,9 +31,10 @@ Curriculo: https://www.linkedin.com/in/aguinaldo-americo
   <img align="center" alt="Agui-aws" height="85" width="95" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img align="center" alt="Agui-gcp" height="85" width="95" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg">
   <img align="center" alt="Agui-docker" height="55" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Agui-kubernetes" height="45" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg">
   <img align="center" alt="Agui-grafana" height="55" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg">
   <img align="center" alt="Agui-prometheus" height="45" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg">
-  <img align="center" alt="Agui-kubernetes" height="45" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg">  
+    
   <img align="center" alt="Agui-jenkins" height="45" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="Agui-argocd" height="45" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original-wordmark.svg">
   <img align="center" alt="Agui-kafka" height="95" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg">
