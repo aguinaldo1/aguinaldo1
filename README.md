@@ -1,8 +1,8 @@
 ## **Aguinaldo Américo** 👋
 
 
-- Atualmente focado em desenvolver habilidades voltadas a DevOps/SRE, Cloud 
-Atuando como SRE desenvolvendo atividades de monitoramento de aplicações através das métricas, traces e logs com o uso de ferramentas como: AppDynamics, Splunk, AppMetrics, Grafana, Prometheus.
+- Atualmente focado em desenvolver habilidades voltadas a DevOps/SRE e Cloud 
+Atuando como SRE desenvolvendo atividades de monitoramento de aplicações através das métricas, traces e logs com o uso de ferramentas como: AppDynamics, Splunk, AppMetrics, Grafana, Prometheus, e AWS via CloudWatch.
 
 
 
