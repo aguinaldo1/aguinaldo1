@@ -12,7 +12,7 @@
 
 Olá, Meu nome é Aguinaldo, estudante de Big Data e Inteligência Analítica, atuando como SRE/DevOps no Itaú, através da empresa NTT DATA.
 - Continuo focando constantemente minhas habilidades voltadas a DevOps/SRE e Cloud nos ambientes da (AWS, Azure, GCP E OCI).
-Atribuições diarias voltadas a SRE desenvolvo atividades no back-end com o monitoramento e sustentabilidaade das aplicações através das métricas, traces e logs com o uso de ferramentas como: AppDynamics, Splunk, AppMetrics, Grafana, Prometheus, AWS via CloudWatch e outras mais, as quais continuo desenvolvendo estudos e aprimoramento diariamente para uma boa prática de uso e adequações.
+Minhas atribuições diarias voltadas a SRE desenvolvo atividades no back-end com o monitoramento e sustentabilidaade das aplicações através das métricas, traces e logs com o uso de ferramentas como: AppDynamics, Splunk, AppMetrics, Grafana, Prometheus, AWS via CloudWatch e outras mais, as quais continuo desenvolvendo estudos e aprimoramento diariamente para uma boa prática de uso e adequações.
 
 
 
@@ -24,9 +24,19 @@ Curriculo: https://www.linkedin.com/in/aguinaldo-americo
 # *Cursando*
 - Big Data e inteligência analítica  - faculdade Uniasselvi
 
-##
+<!-- Status -->
+## ⚡ GitHub statistics
+<div style="display: inline_block">
+<img align="center" width="47.2%" src="https://github-readme-stats.vercel.app/api?username=aguinaldo1&count_private=true&show_icons=true&theme=defaut" /> <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=aguinaldo1&" alt="aguinaldo1" />
+</div>
 
-  stacks que me desenvolvo:
+<div style="display: inline_block"><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguinaldo1&layout=compact&theme=defaut" />
+</div>
+
+##
+  <!-- Tecnologias -->
+## :woman_technologist: Stacks que me desenvolvo:
   <div style="display: inline_block"><br>
  
   <img align="center" alt="Agui-linux" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
@@ -85,6 +95,7 @@ Curriculo: https://www.linkedin.com/in/aguinaldo-americo
     
   </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
 
   
 <!--
