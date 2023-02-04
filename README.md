@@ -1,8 +1,18 @@
-## **Aguinaldo Américo** 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header"/>
+
+<!-- Header typing -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;I'm+Aguinaldo+Américo;Nice+to+meet+you!&center=true&size=25">
+  </a>
+</h1>
 
 
-- Atualmente focado em desenvolver habilidades voltadas a DevOps/SRE e Cloud 
-Atuando como SRE desenvolvendo atividades de monitoramento de aplicações através das métricas, traces e logs com o uso de ferramentas como: AppDynamics, Splunk, AppMetrics, Grafana, Prometheus, e AWS via CloudWatch.
+<!--## **Aguinaldo Américo** 👋-->
+
+Olá, Meu nome é Aguinaldo, estudante de Big Data e Inteligência Analítica, atuando como SRE/DevOps no Itaú, através da empresa NTT DATA.
+- Continuo focando constantemente minhas habilidades voltadas a DevOps/SRE e Cloud nos ambientes da (AWS, Azure, GCP E OCI).
+Atribuições diarias voltadas a SRE desenvolvo atividades no back-end com o monitoramento e sustentabilidaade das aplicações através das métricas, traces e logs com o uso de ferramentas como: AppDynamics, Splunk, AppMetrics, Grafana, Prometheus, AWS via CloudWatch e outras mais, as quais continuo desenvolvendo estudos e aprimoramento diariamente para uma boa prática de uso e adequações.
 
 
 
