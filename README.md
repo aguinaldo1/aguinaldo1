@@ -36,7 +36,7 @@ Curriculo: https://www.linkedin.com/in/aguinaldo-americo
 
 ##
   <!-- Tecnologias -->
-## :woman_technologist: Stacks que me desenvolvo:
+## :woman_technologist: Ferramentas que me desenvolvo no dia a dia:
   <div style="display: inline_block"><br>
  
   <img align="center" alt="Agui-linux" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
