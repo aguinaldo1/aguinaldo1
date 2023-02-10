@@ -27,18 +27,20 @@ Curriculo: https://www.linkedin.com/in/aguinaldo-americo
 <!-- Status -->
 ## ⚡ GitHub statistics
 <div style="display: inline_block">
-<img align="center" width="47.2%" src="https://github-readme-stats.vercel.app/api?username=aguinaldo1&count_private=true&show_icons=true&theme=defaut" /> <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=aguinaldo1&" alt="aguinaldo1" />
+<img align="center" width="47.2%" src="https://github-readme-stats.vercel.app/api?username=aguinaldo1&count_private=true&show_icons=true&theme=defaut" /> 
+<img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=aguinaldo1&" alt="aguinaldo1" />
 </div>
 
-<div style="display: inline_block"><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguinaldo1&layout=compact&theme=defaut" />
+<div style="display: inline_block">
+<img align="center" width="47.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguinaldo1&layout=compact&theme=defaut" />
+<img  align="center" width="30.0%"src="https://github.com/ValdirCezar/Autenticacao-Tokens-JWT/blob/master/src/imd-readme.gif?raw=true" />
 </div>
+  
 
 ##
   <!-- Tecnologias -->
 ## :woman_technologist: Ferramentas que me desenvolvo no dia a dia:
-  <div style="display: inline_block"><br>
- 
+  <div style="display: inline_block"><br> 
   <img align="center" alt="Agui-linux" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Agui-java" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Agui-spring" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
