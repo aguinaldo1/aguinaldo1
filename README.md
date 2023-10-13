@@ -36,7 +36,7 @@ Curriculo: https://www.linkedin.com/in/aguinaldo-americo
 <img  align="center" width="30.0%"src="https://github.com/ValdirCezar/Autenticacao-Tokens-JWT/blob/master/src/imd-readme.gif?raw=true" />
 </div>
   
-
+[![An image of @aguinaldo1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aguinaldo1)](https://holopin.io/@aguinaldo1)
 ##
   <!-- Tecnologias -->
 ## :woman_technologist: Ferramentas que me desenvolvo no dia a dia:
