@@ -24,7 +24,7 @@ Curriculo: https://www.linkedin.com/in/aguinaldo-americo
 # *Cursando*
 - Big Data e inteligência analítica  - faculdade Uniasselvi
 
-<!-- Status -->
+<!-- Status 
 ## ⚡ GitHub statistics
 <div style="display: inline_block">
 <img align="center" width="47.2%" src="https://github-readme-stats.vercel.app/api?username=aguinaldo1&count_private=true&show_icons=true&theme=defaut" /> 
@@ -37,7 +37,7 @@ Curriculo: https://www.linkedin.com/in/aguinaldo-americo
 </div>
   
 [![An image of @aguinaldo1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aguinaldo1)](https://holopin.io/@aguinaldo1)
-##
+## -->
   <!-- Tecnologias -->
 ## :woman_technologist: Ferramentas que me desenvolvo no dia a dia:
   <div style="display: inline_block"><br> 
@@ -51,7 +51,7 @@ Curriculo: https://www.linkedin.com/in/aguinaldo-americo
   <img align="center" alt="Agui-CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   <img align="center" alt="Agui-azure" height="85" width="95" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg">
   <img align="center" alt="Agui-aws" height="85" width="95" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img align="center" alt="Agui-gcp" height="85" width="95" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg">
+ <!-- <img align="center" alt="Agui-gcp" height="85" width="95" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg"> -->
   <img align="center" alt="Agui-docker" height="55" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Agui-kubernetes" height="45" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg">
   <img align="center" alt="Agui-grafana" height="55" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg">
@@ -86,7 +86,7 @@ Curriculo: https://www.linkedin.com/in/aguinaldo-americo
  
     
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/> 
 
   
 <!--
