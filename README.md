@@ -46,10 +46,10 @@ Curriculo: https://www.linkedin.com/in/aguinaldo-americo
   <img align="center" alt="Agui-spring" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Agui-python" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Agui-sql" height="30" width="35" src="https://user-images.githubusercontent.com/49000442/139517363-a561d54c-7993-4b8d-8a1d-742374258cab.png">
-  <img align="center" alt="Agui-Js" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+ <!-- <img align="center" alt="Agui-Js" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="Agui-HTML" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Agui-CSS" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="center" alt="Agui-azure" height="85" width="95" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg">
+  <img align="center" alt="Agui-azure" height="85" width="95" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg"> -->
   <img align="center" alt="Agui-aws" height="85" width="95" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
  <!-- <img align="center" alt="Agui-gcp" height="85" width="95" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg"> -->
   <img align="center" alt="Agui-docker" height="55" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
