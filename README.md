@@ -6,8 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;I'm+Aguinaldo+Américo;Nice+to+meet+you!&center=true&size=25">
   </a>
 </h1>
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=aguinaldo1%2Fgithub-visitors-badge&countColor=%23263759)](https://visitorbadge.io/status?path=aguinaldo1%2Fgithub-visitors-badge)
-![GitHub followers](https://img.shields.io/github/followers/aguinaldo1?style=social)
+
 
 <!--## **Aguinaldo Américo** 👋-->
 
@@ -22,7 +21,7 @@ Curriculo: https://aguinaldo1.github.io/cv
 Curriculo: https://www.linkedin.com/in/aguinaldo-americo
 
 
-# *Cursando*
+# 📕 *Cursando*
 - Big Data e inteligência analítica  - faculdade Uniasselvi
 
 <!-- Status 
@@ -39,8 +38,13 @@ Curriculo: https://www.linkedin.com/in/aguinaldo-americo
   
 [![An image of @aguinaldo1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aguinaldo1)](https://holopin.io/@aguinaldo1)
 ## -->
+
+## ⭐ GitHub Stats
+
+![aguinaldo1's Stats](https://github-readme-stats.vercel.app/api?username=aguinaldo1&theme=radical&show_icons=true&hide_border=true&count_private=true)
+
   <!-- Tecnologias -->
-## Ferramentas que domino e estudo no dia a dia:
+## 💻 Ferramentas que domino e estudo no dia a dia:
   <div style="display: inline_block"><br> 
   <img align="center" alt="Agui-linux" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Agui-java" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
@@ -77,7 +81,7 @@ Curriculo: https://www.linkedin.com/in/aguinaldo-americo
     -->
  
    
-   Contatos:
+   ## ⭐ Contatos
   
 [![Linkedin Badge](https://img.shields.io/badge/-Aguinaldo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aguinaldo-americo)](https://www.linkedin.com/in/aguinaldo-americo)
 [![Gmail Badge](https://img.shields.io/badge/-aguinaldoamerico2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aguinaldoamerico2@gmail.com)](mailto:aguinaldoamerico2@gmail.com)
