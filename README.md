@@ -47,7 +47,8 @@ ________________________________________________________________________________
   ______________________________________________________________________________________________________
   ## 🌱 Projetos em destaques
 
-  ✅ Observabilidade - "https://github.com/aguinaldo1/Lab_Desafio-Observ/tree/main"</p>
+  ✅ Observabilidade</p> 
+  - "https://github.com/aguinaldo1/Lab_Desafio-Observ/tree/main"</p>
   ✅ Cloud </p>
   ✅ Cloud</p>
 
