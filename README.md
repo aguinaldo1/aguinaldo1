@@ -39,7 +39,7 @@ Curriculo: https://www.linkedin.com/in/aguinaldo-americo
 [![An image of @aguinaldo1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aguinaldo1)](https://holopin.io/@aguinaldo1)
 ## -->
   <!-- Tecnologias -->
-## Ferramentas que me desenvolvo no dia a dia:
+## Ferramentas que domino e estudo no dia a dia:
   <div style="display: inline_block"><br> 
   <img align="center" alt="Agui-linux" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Agui-java" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
