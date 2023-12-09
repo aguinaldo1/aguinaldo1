@@ -6,7 +6,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;I'm+Aguinaldo+Américo;Nice+to+meet+you!&center=true&size=25">
   </a>
 </h1>
-
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=aguinaldo1%2Fgithub-visitors-badge&countColor=%23263759)](https://visitorbadge.io/status?path=aguinaldo1%2Fgithub-visitors-badge)
+![GitHub followers](https://img.shields.io/github/followers/aguinaldo1?style=social)
 
 <!--## **Aguinaldo Américo** 👋-->
 
