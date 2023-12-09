@@ -85,7 +85,6 @@ Curriculo: https://www.linkedin.com/in/aguinaldo-americo
   
 [![Linkedin Badge](https://img.shields.io/badge/-Aguinaldo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aguinaldo-americo)](https://www.linkedin.com/in/aguinaldo-americo)
 [![Gmail Badge](https://img.shields.io/badge/-aguinaldoamerico2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aguinaldoamerico2@gmail.com)](mailto:aguinaldoamerico2@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@aguinaldoamerico-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/https://twitter.com/aguinaldo112)](https://twitter.com/https://twitter.com/aguinaldo112)
 
 
  
