@@ -20,11 +20,11 @@ Curriculo: https://aguinaldo1.github.io/cv
 
 Curriculo: https://www.linkedin.com/in/aguinaldo-americo
 
+______________________________________________________________________________________________________
+## 📕 Cursando </p>
+- Big Data e inteligência analítica  - faculdade Uniasselvi</p>
 
-# 📕 *Cursando*
-- Big Data e inteligência analítica  - faculdade Uniasselvi
-
-<!-- Status 
+<!-- Status
 ## ⚡ GitHub statistics
 <div style="display: inline_block">
 <img align="center" width="47.2%" src="https://github-readme-stats.vercel.app/api?username=aguinaldo1&count_private=true&show_icons=true&theme=defaut" /> 
@@ -38,12 +38,22 @@ Curriculo: https://www.linkedin.com/in/aguinaldo-americo
   
 [![An image of @aguinaldo1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aguinaldo1)](https://holopin.io/@aguinaldo1)
 ## -->
-
+______________________________________________________________________________________________________
 ## ⭐ GitHub Stats
 
 ![aguinaldo1's Stats](https://github-readme-stats.vercel.app/api?username=aguinaldo1&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
+
+  ______________________________________________________________________________________________________
+  ## 🌱 Projetos 
+
+  ✅ Observabilidade - "https://github.com/aguinaldo1/Lab_Desafio-Observ/tree/main"</p>
+  ✅ Cloud </p>
+  ✅ Cloud</p>
+
+
   <!-- Tecnologias -->
+  ______________________________________________________________________________________________________
 ## 💻 Ferramentas que domino e estudo no dia a dia:
   <div style="display: inline_block"><br> 
   <img align="center" alt="Agui-linux" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
@@ -75,13 +85,11 @@ Curriculo: https://www.linkedin.com/in/aguinaldo-americo
   
   <!--
     <img align="center" alt="Rafa-Js" height="30" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+  -->
 
-  
-     
-    -->
- 
-   
-   ## ⭐ Contatos
+
+   ______________________________________________________________________________________________________
+   ## 💬 Contatos
   
 [![Linkedin Badge](https://img.shields.io/badge/-Aguinaldo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aguinaldo-americo)](https://www.linkedin.com/in/aguinaldo-americo)
 [![Gmail Badge](https://img.shields.io/badge/-aguinaldoamerico2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aguinaldoamerico2@gmail.com)](mailto:aguinaldoamerico2@gmail.com)
