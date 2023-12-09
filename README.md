@@ -11,8 +11,8 @@
 <!--## **Aguinaldo Américo** 👋-->
 
 Olá, Meu nome é Aguinaldo, estudante de Big Data e Inteligência Analítica, atuando como SRE/DevOps no Itaú, através da empresa NTT DATA.
-- Continuo focando constantemente minhas habilidades voltadas a DevOps/SRE e Cloud nos ambientes da (AWS, Azure, GCP E OCI).
-Minhas atribuições diarias voltadas a SRE desenvolvo atividades no back-end com o monitoramento e sustentabilidaade das aplicações através das métricas, traces e logs com o uso de ferramentas como: AppDynamics, Splunk, AppMetrics, Grafana, Prometheus, AWS via CloudWatch e outras mais, as quais continuo desenvolvendo estudos e aprimoramento diariamente para uma boa prática de uso e adequações.
+- Continuo direcionando meu desenvolvimento profissional em DevOps/SRE e Cloud no ambientes da AWS com estudos evolutivos em Azure, GCP e OCI.
+Minhas atribuições no dia a dia esta voltada a SRE e Sustentabilidade onde desenvolvo atividades no back-end como monitoramento de aplicações através das métricas, traces e logs fazendo uso de ferramentas como: AppDynamics, Splunk, AppMetrics, Grafana, Prometheus, AWS via CloudWatch e outras mais, as quais continuo desenvolvendo-me e aprimorando tecnicas para uma boa prática e usabilidade adequada.
 
 
 
@@ -39,7 +39,7 @@ Curriculo: https://www.linkedin.com/in/aguinaldo-americo
 [![An image of @aguinaldo1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aguinaldo1)](https://holopin.io/@aguinaldo1)
 ## -->
   <!-- Tecnologias -->
-## :woman_technologist: Ferramentas que me desenvolvo no dia a dia:
+## Ferramentas que me desenvolvo no dia a dia:
   <div style="display: inline_block"><br> 
   <img align="center" alt="Agui-linux" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Agui-java" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
