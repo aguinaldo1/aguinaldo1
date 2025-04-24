@@ -16,9 +16,9 @@ Minhas atribuições no dia a dia esta voltada a SRE e Sustentabilidade onde des
 
 
 
-Curriculo: https://aguinaldo1.github.io/cv
+Curriculo web: https://aguinaldo1.github.io/webCV/
 
-Curriculo: https://www.linkedin.com/in/aguinaldo-sre-devops/
+Linkedin: https://www.linkedin.com/in/aguinaldo-sre-devops/
 
 ______________________________________________________________________________________________________
 ## 📕 Cursando </p>
