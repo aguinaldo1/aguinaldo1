@@ -16,7 +16,7 @@ Minhas atribuições no dia a dia esta voltada a SRE e Sustentabilidade onde des
 
 
 
-Curriculo web: https://aguinaldo1.github.io/webCV/
+Curriculo web: https://aguinaldo1.github.io/webcv/
 
 Linkedin: https://www.linkedin.com/in/aguinaldo-sre-devops/
 
@@ -24,7 +24,7 @@ ________________________________________________________________________________
 ## 📕 Cursando </p>
 - Big Data e inteligência analítica  - faculdade Uniasselvi</p>
 
-<!-- Status
+ Status
 ## ⚡ GitHub statistics
 <div style="display: inline_block">
 <img align="center" width="47.2%" src="https://github-readme-stats.vercel.app/api?username=aguinaldo1&count_private=true&show_icons=true&theme=defaut" /> 
@@ -37,7 +37,7 @@ ________________________________________________________________________________
 </div>
   
 [![An image of @aguinaldo1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aguinaldo1)](https://holopin.io/@aguinaldo1)
-## -->
+## 
 ______________________________________________________________________________________________________
 ## ⭐ GitHub Stats
 
