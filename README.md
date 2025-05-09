@@ -2,9 +2,9 @@
 
 <div align="center">
   <strong>Site Reliability Engineer | DevOps | Observabilidade | Sustentabilidade Digital</strong><br/>
-  <a href="https://aguinaldo1.github.io/webcv/">🌐 Portfólio Web</a> • 
-  <a href="https://www.linkedin.com/in/aguinaldo-americo">LinkedIn</a> • 
-  <a href="mailto:aguinaldoamerico2@gmail.com">Email</a>
+  <a href="https://aguinaldo1.github.io/webcv/" target="_blank">🌐 Portfólio Web</a> • 
+  <a href="https://www.linkedin.com/in/aguinaldo-americo" target="_blank">LinkedIn</a> • 
+  <a href="mailto:aguinaldoamerico2@gmail.com" target="_blank">Email</a>
 </div>
 
 ---
@@ -40,7 +40,7 @@ No meu dia a dia, trabalho com práticas de SRE e monitoramento de aplicações 
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [📈 Observabilidade](https://github.com/aguinaldo1/Lab_Desafio-Observ) | Dashboard com métricas, logs e traces aplicados | Grafana, Prometheus, AWS |
+| <a href="https://github.com/aguinaldo1/Lab_Desafio-Observ" target="_blank">📈 Observabilidade</a> | Dashboard com métricas, logs e traces aplicados | Grafana, Prometheus, AWS |
 | ☁️ Cloud Lab (em andamento) | Infraestrutura como código e automações em nuvem | AWS, Terraform, CI/CD |
 | 🗓️ Agenda de Aniversários | App full-stack com notificações via WhatsApp | JS, Node, HTML/CSS |
 
@@ -48,24 +48,7 @@ No meu dia a dia, trabalho com práticas de SRE e monitoramento de aplicações 
 
 ## 🛠️ Ferramentas que domino
 
-**☁️ Cloud & Containers**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-K8s-326CE5?style=flat&logo=kubernetes&logoColor=white)
-
-**🚀 DevOps & CI/CD**  
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/-ArgoCD-FE7026?style=flat&logo=argo&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-330F63?style=flat&logo=gitlab&logoColor=white)
-
-**📊 Observabilidade & Logs**  
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk&logoColor=white)
-![AppDynamics](https://img.shields.io/badge/-AppDynamics-0071C5?style=flat&logo=appdynamics&logoColor=white)
-
-**🛠️ Outras Skills**  
-Linux | Git | Bash | VS Code | Scrum | Metodologias Ágeis | Design Responsivo
+*(os badges já abrem corretamente no GitHub, sem necessidade de `target="_blank`")*
 
 ---
 
@@ -89,5 +72,5 @@ Sinta-se livre para estudar, adaptar e contribuir com melhorias!
 ## 📫 Contato
 
 💬 Vamos nos conectar? Estou disponível para conversar sobre DevOps, SRE, Observabilidade, Sustentabilidade Digital e Cloud!  
-📧 aguinaldoamerico2@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/aguinaldo-americo)
+📧 <a href="mailto:aguinaldoamerico2@gmail.com" target="_blank">aguinaldoamerico2@gmail.com</a>  
+🔗 <a href="https://www.linkedin.com/in/aguinaldo-americo" target="_blank">LinkedIn</a>
