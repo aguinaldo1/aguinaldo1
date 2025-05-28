@@ -36,11 +36,11 @@ No meu dia a dia, trabalho com práticas de SRE e monitoramento de aplicações 
 
 ## 🚀 Projetos em Destaque
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
+| Projeto | Descrição | Tecnologias | Visit |
+|--------|-----------|-------------|----------------------------------------|
 | <a href="https://github.com/aguinaldo1/Lab_Desafio-Observ" target="_blank">📈 Observabilidade</a> | Dashboard com métricas, logs e traces aplicados | Grafana, Prometheus, AWS |
 | ☁️ Cloud Lab (em andamento) | Infraestrutura como código e automações em nuvem | AWS, Terraform, CI/CD |
-| 🗓️ Agenda de Aniversários  (em andamento) | App full-stack com notificações via WhatsApp | JS, Node, HTML/CSS |
+| <a href="https://github.com/aguinaldo1/igreja-celebracoes-mensais" target="_blank">🗓️ Agenda de Aniversários (em andamento) | App de notif. de niver. via WhatsApp e e-mail | HTML, CSS, TypeScript, IA | https://igreja-celebracoes-mensais.vercel.app/ |
 
 ---
 
