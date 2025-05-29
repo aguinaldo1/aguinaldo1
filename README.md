@@ -2,7 +2,7 @@
 
 <div align="center">
   <strong>Site Reliability Engineer | DevOps | Observabilidade </strong><br/>
-  <a href="https://aguinaldo1.github.io/webcv/" target="_blank">🌐 Portfólio Web</a> • 
+  <a href="[https://aguinaldo-americo-cv.vercel.app/" target="_blank">🌐 Portfólio Web</a> • 
   <a href="https://www.linkedin.com/in/aguinaldo-americo" target="_blank">LinkedIn</a> • 
   <a href="mailto:aguinaldoamerico2@gmail.com" target="_blank">Email</a>
 </div>
