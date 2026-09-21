@@ -275,17 +275,6 @@ A IA funciona como ferramenta de apoio ao processo de engenharia e aprendizado, 
 
 ---
 
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aguinaldo1&show_icons=true&hide_border=true" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguinaldo1&layout=compact&hide_border=true" alt="Most used languages" />
-
-</div>
-
----
-
 # 📫 Contato
 
 <div align="center">
